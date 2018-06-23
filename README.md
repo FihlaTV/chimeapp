@@ -1,6 +1,12 @@
 # Chime App
 
+## About the App
+
 We developed a new app to generate, consume, manage and share the WCAP URIs as described above. The app is simple, usable and beautiful, and meant to be a persistent, passive helper for the user running it on their smartphone. Users can share and synchronize their Chime links with each other, to let eachother know where they can find off-grid services in the physical world. The app tells a user which Chimes are available nearby, and how far away the rest are. It also actively notifies a user when they come nearby a Chime, and allows them to automatically connect to it, and perform any automated actions like data syncing or uploading.
+
+## Release
+
+This app is currently only in prototype phase. You can find prototype dev builds posted on the Release page: https://github.com/guardianproject/chimeapp/releases
 
 ## Chime Protocol 
 
